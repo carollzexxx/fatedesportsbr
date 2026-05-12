@@ -203,7 +203,7 @@ export default function FatedWebsite() {
           </p>
 
           <form
-  action="https://formspree.io/f/xjgllvqn"
+  action="https://formspree.io/f/xpqbnzlg"
   method="POST"
   className="bg-black border border-purple-500/20 rounded-3xl p-8 space-y-5 text-left shadow-2xl shadow-purple-900/10"
 >
