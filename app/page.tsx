@@ -16,7 +16,7 @@ export default function FatedWebsite() {
   alt="Fated Logo"
   className="w-12 h-12 object-contain drop-shadow-[0_0_15px_rgba(168,85,247,0.7)]"
 />
-            <h1 className="text-2xl font-bold tracking-wider">FATED TESTE</h1>
+            <h1 className="text-2xl font-bold tracking-wider">FATED</h1>
           </div>
 
           <nav className="hidden md:flex gap-8 text-sm uppercase tracking-widest text-gray-300">
